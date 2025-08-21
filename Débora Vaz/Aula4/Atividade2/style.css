@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(to left, #4f7ad6, #000f61);
+}
+
+div {
+    background-color: #fff;
+    padding: 30px;
+    width: 300px;
+    border-radius: 5px;
+    margin-left: 500px;
+}
